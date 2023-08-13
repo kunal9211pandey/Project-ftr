@@ -3,11 +3,26 @@ this is my future ready talent project
 
 Project Link:- https://personalportfolio.z29.web.core.windows.net/
 
-Video Link:- 
+Video Link:-  https://youtu.be/A-Lhz_qzdOc
 
-Probleam Statement:-
+Probleam Statement:-   developing a portfolio where we can add all our professional information, works , achievements and experiences.
 
-Problem Descripation:-
+Problem Descripation:- We have designed this project with the help of the tools such as HTML , Javascript and CSS and developed this Portfolio which contains our professional qualifications or information, our work, achievements and experiences..
+
+In order to make this portfolio more clear-cut and simple to  understand we have provided different sections for different professional information , such as :-
+
+About -- for getting the basic idea of the person of whom this portfolio is.
+
+Resume -- for getting the overall idea about the person in context to his/her education qualification, internships , work experiences, etc.
+
+Blogs -- In order to post daily update by the person.
+
+Contact -- In orders to get connected with people through contact information such as mail id.
+
+Now for  this portfolio site , we have used cloud services such as Storage Account in order  to store data of this site.
+And is hosted by Static web app cloud service.
+
+
 
 Azure Technology
 
