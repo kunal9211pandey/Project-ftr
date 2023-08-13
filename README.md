@@ -59,6 +59,16 @@ ScreenSort of Contact Page
 ![image](https://github.com/kunal9211pandey/Project-ftr/assets/118272078/e97598b0-42b5-4d9a-b516-add82a12cc9e)
 
 
+Technology Use 
+
+-Html
+-Css
+-JavaScript
+-Storage Accounts
+-Static Web Apps
+
+
+
 
                                                                Thank You..!!!
 
