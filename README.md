@@ -35,7 +35,7 @@ ScreenSort of Contact Page
 
 
 
-                                     Thank You..!!!
+                                                               Thank You..!!!
 
 
 
