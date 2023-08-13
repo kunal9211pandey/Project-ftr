@@ -62,10 +62,15 @@ ScreenSort of Contact Page
 Technology Use 
 
 -Html
+
 -Css
+
 -JavaScript
+
 -Storage Accounts
+
 -Static Web Apps
+
 
 
 
