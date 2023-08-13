@@ -5,7 +5,7 @@ Project Link:- https://personalportfolio.z29.web.core.windows.net/
 
 Azure Technology
 
--Storage Account
+-Storage Accounts
 
 -Static Web Apps
 
