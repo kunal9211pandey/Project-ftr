@@ -3,6 +3,12 @@ this is my future ready talent project
 
 Project Link:- https://personalportfolio.z29.web.core.windows.net/
 
+Video Link:- 
+
+Probleam Statement:-
+
+Problem Descripation:-
+
 Azure Technology
 
 1) Storage Accounts
