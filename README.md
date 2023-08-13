@@ -5,14 +5,16 @@ Project Link:- https://personalportfolio.z29.web.core.windows.net/
 
 Azure Technology
 
--Storage Accounts
+1) Storage Accounts
 
 for Store all the Data  we are creating Storage Account , where we are store our all the website realted data like Image , css file , javaScript File and Html file.
 using Cloud Storage , where we are deploye our data. Storage Account provides a Unique name space in azure  for your data.
+
+      About Storage Accounts:- A storage account provides a unique namespace in Azure for your data. Every object that you store in Azure Storage has a URL address that includes your unique account name. The combination of the account name and the service endpoint forms the endpoints for your storage account.
  
  Step We are Follow:
 
-     1) frist we are create storage account  then create the storage account , go to  containers  and upload all the files in $web .
+     -- frist we are create storage account  then create the storage account , go to  containers  and upload all the files in $web .
  
  ![WhatsApp Image 2023-08-13 at 20 43 58](https://github.com/kunal9211pandey/Project-ftr/assets/118272078/0b12b860-d55b-49b6-bdcd-e1fbef2d18dc)
 
@@ -21,8 +23,13 @@ using Cloud Storage , where we are deploye our data. Storage Account provides a 
 
 
 
+2) Static Web Apps
 
--Static Web Apps
+  -- After upload all the file in the Cloud Storage , we are deployee our website in the cloud , so that we can use and see your website in anywhere , any location . they are one kind of hosting where we are deployee our project (website ) in temporary.
+  
+      About Static Page:-Static websites are website served from a storage server or a content delivery network (CDN). There is no need to have a running server creating the HTML files. These websites are pre-built as HTML files that are stored somewhere on the internet and then served as they were built.
+
+      
 
 ScreenSort Of Home Page
 
