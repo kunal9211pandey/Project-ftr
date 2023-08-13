@@ -1,5 +1,5 @@
 # Project-ftr
 this is my future ready talent project
 
-Project Link:- 
+Project Link:- https://personalportfolio.z29.web.core.windows.net/
 
