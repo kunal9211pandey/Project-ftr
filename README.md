@@ -5,7 +5,15 @@ Project Link:- https://personalportfolio.z29.web.core.windows.net/
 
 Azure Technology
 
--Storage Accounts
+-Storage Accounts 
+ we are creating Storage Account , where we are store our all the website realted data like Image , css file javaScript File.
+ Example:-
+ ![WhatsApp Image 2023-08-13 at 20 43 58](https://github.com/kunal9211pandey/Project-ftr/assets/118272078/0b12b860-d55b-49b6-bdcd-e1fbef2d18dc)
+
+ ![WhatsApp Image 2023-08-13 at 20 43 58 (1)](https://github.com/kunal9211pandey/Project-ftr/assets/118272078/b7ed2043-e960-40e5-a509-f9fb12efec4c)
+
+
+
 
 -Static Web Apps
 
