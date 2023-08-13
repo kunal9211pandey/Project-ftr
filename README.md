@@ -7,7 +7,10 @@ Video Link:-  https://youtu.be/A-Lhz_qzdOc
 
 Probleam Statement:-   developing a portfolio where we can add all our professional information, works , achievements and experiences.
 
-Problem Descripation:- We have designed this project with the help of the tools such as HTML , Javascript and CSS and developed this Portfolio which contains our professional qualifications or information, our work, achievements and experiences..
+
+Problem Descripation:- 
+                We have designed this project with the help of the tools such as HTML , Javascript and CSS and developed this Portfolio which contains our 
+                professional qualifications or information, our work, achievements and experiences..
 
 In order to make this portfolio more clear-cut and simple to  understand we have provided different sections for different professional information , such as :-
 
