@@ -7,7 +7,8 @@ Azure Technology
 
 -Storage Accounts
 
- we are creating Storage Account , where we are store our all the website realted data like Image , css file , javaScript File and Html file.
+for Store all the Data  we are creating Storage Account , where we are store our all the website realted data like Image , css file , javaScript File and Html file.
+using Cloud Storage , where we are deploye our data. Storage Account provides a Unique name space in azure  for your data.
  
  Step We are Follow:
 
